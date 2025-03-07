@@ -1,0 +1,242 @@
+[
+    [
+        "Marselj 8 marta 1927. 51, Rue St. Jaques, I.\r",
+        {
+            "entities": [
+                [
+                    0,
+                    7,
+                    "LOC"
+                ],
+                [
+                    8,
+                    21,
+                    "DATE"
+                ],
+                [
+                    22,
+                    43,
+                    "ADRS"
+                ]
+            ]
+        }
+    ],
+    [
+        "Draga gđo. Vera, odavno vam se nisam javio i ako sam često mislio na vas.\r",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nemam ništa ni novo ni mnogo dobro da vam javim.\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Kolebam sa zdravljem, a ova proletnja vremena sa vjetrovima i košavama utiču rđavo na živce, naročito kod ljudi koji ni inače nisu posve kako treba.\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Prilično sam zauzet u Konsulatu a sve slobodno vreme provodim u čitanju.\r",
+        {
+            "entities": [
+                [
+                    22,
+                    31,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pokatkad  mi se čini kao da sam se pomladio i kao da ponovo studiram na univerzitetu.\r",
+        {
+            "entities": [
+                [
+                    72,
+                    84,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nisam čak išao ni na karneval u Nicu.\r",
+        {
+            "entities": [
+                [
+                    32,
+                    36,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Vidim dosta cirkusa i ovde.\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Prvom prilikom čitaću vam svoje utiske i mišljenja iz Francuske.\r",
+        {
+            "entities": [
+                [
+                    54,
+                    63,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Oni će biti malo drukčiji nego impresije našeg dragog Duke.\r",
+        {
+            "entities": [
+                [
+                    54,
+                    58,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Često, često pomislim na vas i na lanjsko ljeto.\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Sad kad mi dođe red da se vratim u Beograd, u Ministarstvo, biće mi mnogo lakše vratiti se, jer poznajem bolje i svijet, i jer se nadam zateći vas u vašem novom stanu, sa vašom sobom, sa bibliotekom, u kojoj će moći da se prijatno i razgovara i ćuti.\r",
+        {
+            "entities": [
+                [
+                    35,
+                    42,
+                    "LOC"
+                ],
+                [
+                    46,
+                    58,
+                    "ORG"
+                ]
+            ]
+        }
+    ],
+    [
+        "Javite  mi se i pišite šta ima novo u Beogradu.\r",
+        {
+            "entities": [
+                [
+                    38,
+                    46,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kada se selite ?\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Kako su vaši ?\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Pozdravite Olju i Branu ; ja se njih uvek sećam ali oni se meni ne javljaju.\r",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "PER"
+                ],
+                [
+                    18,
+                    23,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "Srdačno vaš Ivo Andrić\r",
+        {
+            "entities": [
+                [
+                    12,
+                    22,
+                    "PER"
+                ]
+            ]
+        }
+    ],
+    [
+        "P. S.\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Molim vas upitajte u Putniku pošto je karta 1. kl. brzog voza (ne semplona !), bez vagon -li, Beograd - Ventimilja.\r",
+        {
+            "entities": [
+                [
+                    21,
+                    28,
+                    "ORG"
+                ],
+                [
+                    94,
+                    101,
+                    "LOC"
+                ],
+                [
+                    104,
+                    114,
+                    "LOC"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pa mi javite.\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Da niste i vi u gripu ?\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "Čuvajte zdravlje.\r",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "",
+        {
+            "entities": []
+        }
+    ]
+]
