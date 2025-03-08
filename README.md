@@ -27,5 +27,7 @@ This is tha smaller part of project from my Master's course in **Natural Languag
    
    pip install spacy nltk scikit-learn pandas
 
+   Download the Croatian language model for example:
+
    python -m spacy download hr_core_news_sm
 
